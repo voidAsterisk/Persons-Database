@@ -1,0 +1,12 @@
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\EntityFramework.dll
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\EntityFramework.xml
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\obj\Debug\EmployeeListConsoleCore.csprojResolveAssemblyReference.cache
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\obj\Debug\EmployeeListConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\obj\Debug\EmployeeListConsoleCore.csproj.CopyComplete
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\Persons Data.exe.config
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\Persons Data.exe
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\bin\Debug\Persons Data.pdb
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\obj\Debug\Persons Data.exe
+C:\Users\Akira\source\repos\EmployeeListConsoleCore\EmployeeListConsoleCore\obj\Debug\Persons Data.pdb
